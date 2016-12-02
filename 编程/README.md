@@ -1,0 +1,19 @@
+### ToDo
+- [ ]oauth2
+- [ ]http2
+- [ ]openid
+- [ ]分布式算法
+- [ ]golang
+- [ ]rpc
+- [ ]etcd
+- [ ]travis ci
+- [ ]kubrenetes + mesos
+- [ ]redis和集群
+- [x]nginx
+- [ ]guava
+- [x]maven
+- [ ]hadoop + elastic search +kibana
+- [ ]yaml
+- [ ]two-factor authentication
+- [ ]Spring SpringMVC Spring boot
+- [ ]Mybatis
